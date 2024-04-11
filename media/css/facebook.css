@@ -1,0 +1,14 @@
+.facebox_hide{z-index:-100;}
+.facebox_overlayBG{background:#000;z-index:99;}
+#facebox{left:0;position:absolute;text-align:left;top:0;z-index:100;}
+#facebox img{border:0;margin:0;}
+#facebox.content{background:#FFF;border-bottom:1px solid #555555;border-left:1px solid #555555;border-right:1px solid #555555;display:table;height:auto;max-width:400px;}
+#facebox.content .buttonscon{background:#F2F2F2;border-top:1px solid #CCC;padding:6px 10px;text-align:right;}
+#facebox.content .buttonscon .buttons{text-align:right;width:100%;}
+#facebox.image{text-align:center;}
+#facebox.loading{display:table;height:100%;opacity:0.9;text-align:center;width:200px;z-index:100;}
+#facebox.popup{-moz-border-radius:6px;-webkit-border-radius:6px;background:transparent url('/media/images/bg-mydialog.png') repeat;border-radius:6px;padding:10px;padding-top:12px;position:relative;text-align:center;z-index:101;}
+#facebox.title{background:#6D84B4;border-left:1px solid #3B5998;border-right:1px solid #3B5998;border-top:1px solid #3B5998;color:#FFF;font-size:14px;font-weight:bold;max-width:400px;padding:8px;text-align:left;}
+#facebox_overlay{height:100%;left:0px;position:fixed;top:0px;width:100%;}
+#facebox.content > p:first-child{margin-top:0;}
+#facebox.content > p:last-child{margin-bottom:0;}

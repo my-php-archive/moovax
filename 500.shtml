@@ -1,0 +1,82 @@
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//ES" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es" >
+
+    <head>
+
+    <style>
+
+    html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, font, img, ol, ul, li, form, label, table, tbody, tfoot, thead, tr, th, td {
+            margin: 0;
+            padding: 0;
+            border: 0;
+            outline: 0;
+            font-weight: inherit;
+            font-style: inherit;
+            font-size: 100%;
+    }
+
+    :active {outline: 0 ;}
+    :focus {outline: 0 ;}
+    table {border-collapse: collapse; border-spacing: 0; empty-cells:show;}
+    th, td {text-align: left;font-weight: normal;}
+
+    a img, iframe {border: none;}
+
+
+    .clearfix:after {
+            content: " ";
+            display: block;
+            height: 0;
+            clear: both;
+            visibility: hidden;
+            overflow:hidden;
+    }
+    .clearfix:before {
+            content: " ";
+            display: block;
+            height: 0;
+            clear: both;
+            visibility: hidden;
+            overflow:hidden;
+    }
+
+    .clearfix {display: inline-block;}
+    * html .clearfix {height: 1%;}
+    .clearfix {display: block;}
+
+    body {font-family:Verdana; font-size:14px; background:#FBFBFB; color:#025DB1;}
+
+    .aviso {position:relative; display:block; overflow:hidden; margin:200px auto; width:900px; border-radius:10px; box-shadow:0 1px 1px #A6B4C1; border:1px solid #CBD8E5; background:#E8EEF3; padding:20px; }
+
+    .aviso h1 {font-size:20px; font-weight:bold; margin:0 0 30px;}
+    .floatL {float:left;}
+
+    </style>
+
+
+    </head>
+
+    <body style="background:#EDEDED url('http://i.imgur.com/4jCBw.png');">
+
+    <div>
+
+    <div class="aviso">
+
+    <div style="width:180px" class="floatL"><img width="150" src="http://i.imgur.com/mGZFP.png"/></div>
+
+    <div class="floatL">
+    <h1>Moovax est&aacute; actualizando...</h1>
+
+    En unas horas volveremos con novedades.
+    <br>
+    Si quieres preguntar cualquier cosa sobre moovax, puedes hacerlo desde nuestro <a href="https://www.facebook.com/pages/Moovax/198549130246671">Facebook</a>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </body>
+
+    </html>

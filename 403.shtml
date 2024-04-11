@@ -1,0 +1,4 @@
+<h1>Tu ip <span style="color:red;"><!--#echo var="REMOTE_ADDR" --></span> ha sido bloqueada autom&aacute;ticamente por el firewall del sistema anti-spam. Por favor, cont&aacute;ctate con el administrador de la web para m&aacute;s informaci&oacute;n.</h1>
+<!-- 
+                                                                                                                                                                                                                                                                                                                                                                                                                                
+--> 
